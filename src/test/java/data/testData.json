@@ -1,0 +1,12 @@
+[
+{
+"earlyDate" : "2025-11-29",
+"laterDate" : "2025-11-30",
+"nextCalenderPage" : "December" ,
+"invalidDate" : "2025-11-2999" ,
+"invalidDateValue" : "NaN-NaN-NaN",
+"specialCharacter1" : "###" ,
+"specialCharacter2" : "***" ,
+"emptyValue" : ""
+}
+]
